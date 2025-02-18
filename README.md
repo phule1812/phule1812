@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in Tomsk Polytechnic University
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me: phuletpu1812@gmail.com
 
 <!--
